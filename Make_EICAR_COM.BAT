@@ -9,7 +9,7 @@ ECHO  Good anti-malware systems should remove it on
 ECHO  construction.  You may want to alert your IT
 ECHO  department or support you are going to try it!
 ECHO  ---------------------------------------------------
-ECHO  Programmer:    Bryan Ash  2017
+ECHO  Programmer:    brya-n  2017
 ECHO  Verified:      Microsoft Windows 7, 8, 10
 ECHO  ---------------------------------------------------
 ECHO.
